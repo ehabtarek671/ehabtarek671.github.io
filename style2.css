@@ -39,3 +39,16 @@ header{
  color: palevioletred;
  font-size: 1.09;
  }
+ body{
+    background-color: black;
+ }
+ .f1{
+    justify-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+    padding-top: 350px;
+    padding-right: 50px;
+    font-size: 5em;
+    font-weight: 1000;
+ }
