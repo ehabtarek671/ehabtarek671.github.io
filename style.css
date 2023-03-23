@@ -29,6 +29,7 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 5px 25px ;
+
 }
 @keyframes logo{
     form{background-color: darkolivegreen;}
@@ -245,7 +246,18 @@ transform: scale(1.3);
 @media(max-width:1023px){
 header{
     padding: 12px 50px;
+    max-height: 100px;
+    grid-template-columns: 230px;
+    display: grid;
 
+}
+.logo{
+    justify-content: center;
+    border: 3px;
+    border-width: 5px;
+    grid-template-columns: 230px;
+    align-items: center;
+    display: grid;
 }
 .navigation a{
 padding-left: 10px;
