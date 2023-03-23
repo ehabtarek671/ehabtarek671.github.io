@@ -6,7 +6,7 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
-header{
+.header{
     background-color: darkolivegreen;
     width: 100%;
     position: fixed;
