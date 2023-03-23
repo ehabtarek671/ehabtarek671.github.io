@@ -7,6 +7,19 @@
     scroll-behavior: smooth;
     
 }
+.bcs2{
+    padding: 300px;
+    background-color: black;
+}
+.bcs2 p{
+
+    color: red;
+    font-size: 5em;
+    font-weight: 700;
+    margin-bottom:200px;
+    
+}
+
 header{
     background-color: darkolivegreen;
     width: 100%;
