@@ -43,6 +43,7 @@ p {
     border: none;
     transition: 0.5s;
     background-size: 200% auto;
+    text-decoration: none;
 
 }
 
