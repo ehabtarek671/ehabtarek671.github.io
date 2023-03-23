@@ -43,7 +43,6 @@ p {
     border: none;
     transition: 0.5s;
     background-size: 200% auto;
-    text-decoration: none;
 
 }
 
@@ -53,7 +52,10 @@ p {
     color: #fff;
     text-decoration: none;
 }
+a{
+    text-decoration: none;
 
+}
 
 .btn.btn-primary:hover .fas.fa-arrow-right {
     transform: translate(15px);
