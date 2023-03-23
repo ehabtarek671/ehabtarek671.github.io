@@ -7,17 +7,14 @@
     scroll-behavior: smooth;
     
 }
-.bcs2{
-  min-height: 100vh;
-    background-color: black;
-    display: flex;
-}
-.bcs2 p{
+
+.f1{
 
     color: red;
     font-size: 5em;
     font-weight: 700;
-    margin-left: 600px;
+    padding-top: 30vh;
+    padding-left: 10vh;
    justify-content: center;
    align-items: center;
     display: flex;
