@@ -8,16 +8,19 @@
     
 }
 .bcs2{
-    padding: 300px;
+  min-height: 100vh;
     background-color: black;
+    display: flex;
 }
 .bcs2 p{
 
     color: red;
     font-size: 5em;
     font-weight: 700;
-    margin-bottom:200px;
-    
+    margin-left: 600px;
+   justify-content: center;
+   align-items: center;
+    display: flex;
 }
 
 header{
