@@ -255,7 +255,7 @@ header{
     justify-content: center;
     border: 3px;
     border-width: 5px;
-    grid-template-columns: 230px;
+    grid-template-columns: auto;
     align-items: center;
     display: grid;
 }
